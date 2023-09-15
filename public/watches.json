@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "brand": "Apple",
+      "name": "Apple Watch Series 7",
+      "price": 399.99,
+      "color": "Space Gray",
+      "features": ["Heart Rate Monitor", "ECG", "GPS", "Waterproof"],
+      "release_date": "2022-09-15"
+    },
+    {
+      "id": "2",
+      "brand": "Samsung",
+      "name": "Galaxy Watch 4",
+      "price": 299.99,
+      "color": "Mystic Black",
+      "features": ["Blood Pressure Monitor", "ECG", "GPS", "Fitness Tracking"],
+      "release_date": "2022-08-11"
+    },
+    {
+      "id": "3",
+      "brand": "Fitbit",
+      "name": "Fitbit Sense",
+      "price": 249.95,
+      "color": "Carbon/Graphite",
+      "features": ["ECG", "Stress Tracking", "Built-in Alexa", "Sleep Monitoring"],
+      "release_date": "2021-09-01"
+    },
+    {
+      "id": "4",
+      "brand": "Garmin",
+      "name": "Garmin Forerunner 945",
+      "price": 599.99,
+      "color": "Black",
+      "features": ["Advanced Running Dynamics", "Music Storage", "Triathlon Mode"],
+      "release_date": "2020-05-15"
+    },
+    {
+      "id": "5",
+      "brand": "Fossil",
+      "name": "Fossil Gen 5 Carlyle",
+      "price": 279.00,
+      "color": "Smoke",
+      "features": ["Wear OS by Google", "Heart Rate Tracking", "NFC"],
+      "release_date": "2019-08-20"
+    }
+  ]
